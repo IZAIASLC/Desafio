@@ -1,0 +1,12 @@
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\bin\Debug\Desafio.exe.config
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\bin\Debug\Desafio.exe
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\bin\Debug\Desafio.pdb
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\obj\Debug\Desafio.csprojAssemblyReference.cache
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\obj\Debug\Desafio.Form1.resources
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\obj\Debug\Desafio.Properties.Resources.resources
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\obj\Debug\Desafio.csproj.GenerateResource.cache
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\obj\Debug\Desafio.exe
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\obj\Debug\Desafio.pdb
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\izaias.costa\source\repos\Desafio\Desafio\obj\Debug\Desafio.csproj.CopyComplete
