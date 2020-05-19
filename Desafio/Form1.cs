@@ -177,7 +177,7 @@ namespace Desafio
             var stringBuilder = new StringBuilder();
             for (var x = 0; x < hashString.Length; x++)
             {
-                stringBuilder.Append(hashString[x].ToString("X2"));
+                stringBuilder.Append(hashString[x].ToString("x2"));
             }
             return stringBuilder.ToString();
 
